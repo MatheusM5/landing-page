@@ -1,2 +1,2 @@
-# landing-page
-landing page com foco em flex-box
+# landing-page-responsiva
+landing page responsiva com foco em flex-box
